@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "The Cat Returns",
+    "credit": 10,
+    "isLiked": false,
+    "imageUrl": "images/catreturns.png"
+  },
+  {
+    "id": 2,
+    "title": "Kiki's Delivery Service",
+    "credit": 6,
+    "isLiked": false,
+    "imageUrl": "images/kiki.png"
+  },
+  {
+    "id": 3,
+    "title": "Princess Mononoke",
+    "credit": 3,
+    "isLiked": false,
+    "imageUrl": "images/mononokehime.png"
+  },
+  {
+    "id": 4,
+    "title": "Nausicaa of The Valley of The Wind",
+    "credit": 11,
+    "isLiked": false,
+    "imageUrl": "images/nausicaa.png"
+  },
+  {
+    "id": 5,
+    "title": "Spirited Away",
+    "credit": 7,
+    "isLiked": false,
+    "imageUrl": "images/noface.png"
+  },
+  {
+    "id": 6,
+    "title": "Ponyo",
+    "credit": 9,
+    "isLiked": false,
+    "imageUrl": "images/ponyo.png"
+  },
+  {
+    "id": 7,
+    "title": "Porco Rosso",
+    "credit": 4,
+    "isLiked": false,
+    "imageUrl": "images/porcorosso.png"
+  },
+  {
+    "id": 8,
+    "title": "My Neighbor Totoro",
+    "credit": 15,
+    "isLiked": false,
+    "imageUrl": "images/totoro.png"
+  },
+  {
+    "id": 9,
+    "title": "Whisper of The Heart",
+    "credit": 12,
+    "isLiked": false,
+    "imageUrl": "images/whisper.png"
+  }
+]
